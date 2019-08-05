@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <circle id="Oval-3" fill="#FFFFFF" cx="32.5" cy="32.5" r="32"></circle>
+            <path d="M8,46.4962086 L20.4548664,46.4962086 L20.4548664,32.5081376 L32.5005939,44.4253217 L44.5463215,32 L44.5463215,46.4983147 L57,46.4983147 C52.1104385,55.167309 42.9698417,61 32.5005939,61 C22.030495,61 12.8892633,55.1663607 8,46.4962086 L8,46.4962086 Z" id="Path" fill="#4C4C4C"></path>
+            <path d="M5.336079,41 C4.46827827,38.2831108 4,35.3888087 4,32.3855734 C4,16.7086541 16.7598846,4 32.5,4 C48.2401154,4 61,16.7086541 61,32.3855734 C61,35.3883082 60.5318778,38.2821462 59.6643548,40.9986418 L50.4444445,40.9986418 L50.4444445,18.1927867 L32.5,35.4238804 L14.5555556,18.4461216 L14.5555556,41 L5.336079,41 L5.336079,41 Z" id="Path" fill="#FF6600"></path>
+        </g>
+    </g>
+</svg>
